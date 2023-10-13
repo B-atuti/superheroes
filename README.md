@@ -34,25 +34,29 @@ git clone https://github.com/B-atuti/superheroes/
 ```
 
 ### 2. Navigate to the project's directory
-
-cd super-heroes-Flask-API
-
+bash
+```
+cd superheroes
+```
 ### 3. Install required dependencies
-
-pip install -r requirements.txt
-
+bash
+```
+pipenv install
+```
 ### 4. Activate the virtual environment
-
-source venv/bin/activate
-
+bash
+```pipenv shell
+```
 ### 5. to populate the databse, run
-
-python seed.py
-
+bash
+```
+python3 seed.py
+```
 ### 6. Run the Flask server from the root directory
-
-python app.py
-
+bash
+```
+flask run
+```
 ### 7. Copy and past the link below to the browser and test the Api's
 
 http://127.0.0.1:5555
