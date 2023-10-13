@@ -2,15 +2,14 @@
 
 ![python version](https://img.shields.io/badge/python-3.10.12-blue.svg)
 ![Flask version](https://img.shields.io/badge/flask-2.3.3-red.svg)
-
-
+[![license](https://img.shields.io/badge/license-%20MIT%20-green.svg)](./LICENSE)
 
 ## Features
 
 ### Heroes
 
-- Add a new a hero
-- Get all heroes
+- Add a new a hero.
+- Get all heroes.
 - Find, update, or delete a hero by ID
 
 ### Powers
@@ -30,7 +29,7 @@
 
 ### 1. Clone the repository
 
-git clone https://github.com/michellemwangi01/superheroes-api-flask/
+git clone https://github.com/B-atuti/superheroes/
 
 ### 2. Navigate to the project's directory
 
@@ -59,5 +58,5 @@ http://127.0.0.1:5555
 ## Author & License
 
 Authored by [Brian Atuti](https://github.com/B-atuti).
-
+ 
 Licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
